@@ -28,8 +28,8 @@
 > 🌍 *"We don't all speak the same languages, but we speak the same language: collaboration."*  
 > English is not a barrier - it's a bridge.  
 > 🔹 To contribute or review project guidelines, visit the main English files;  
-> - [Contributing Guidelines](CONTRIBUTING.md)  
-> - [Code of Conduct](CODE_OF_CONDUCT.md)  
+> - [Contributing Guidelines](https://github.com/Gitechnolo/biotechproject/blob/main/CONTRIBUTING.md)  
+> - [Code of Conduct](https://github.com/Gitechnolo/biotechproject/blob/main/CODE_OF_CONDUCT.md)  
 > Using English supports international collaboration.
 
 **An open source project that unites science, health, and web technology.**  
