@@ -21,8 +21,8 @@
 > This project has reached **WCAG 2.2 Level AAA conformance** (verified through automated and manual audits) and evolved from a performance-driven experiment into a documented reference for resilient, low-dependency web architecture.  
 > We have formalized our "Stateless Edge" methodology in a new report that addresses global health inequities caused by latency and cognitive barriers.  
 >
-> 🏛️ **Executive & Stakeholder Hub:** [EXECUTIVE_SUMMARY.md](docs/EXECUTIVE_SUMMARY.md)  
-> 👉 **Read the Strategic Report:** [Architectural Equity & Global Resilience Report (PDF)](docs/Architectural_Equity_Resilience_Report.pdf)
+> 🏛️ **Executive & Stakeholder Hub:** [EXECUTIVE_SUMMARY.md](https://gitechnolo.github.io/biotechproject/docs/EXECUTIVE_SUMMARY.md)  
+> 👉 **Read the Strategic Report:** [Architectural Equity & Global Resilience Report (PDF)](https://gitechnolo.github.io/biotechproject/docs/Architectural_Equity_Resilience_Report.pdf)
 
 
 > 🌍 *"We don't all speak the same languages, but we speak the same language: collaboration."*  
