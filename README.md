@@ -286,8 +286,8 @@ The ecosystem implements an **advanced technological maturity tracking system**.
 **Update 19 October 2026:** Integrated the latest audit results from the **SRE Scalability Engine 2026**. The delta between baseline and stress scores confirms a robust architecture with minimal performance degradation under load.
 
 ### 📂 Latest Audit Records
-* 📄 **[SRE Performance Stress-Test Report - 19 October 2026 (PDF)](docs/biotech-performance-report.pdf)**
-* 📄 **[Executive Summary: Metabolic Digital Twin Architecture (PDF)](docs/Metabolic-Digital-Twin-Executive-Summary.pdf)**
+* 📄 **[SRE Performance Stress-Test Report - 19 October 2026 (PDF)](https://github.com/Gitechnolo/biotechproject/blob/main/docs/biotech-performance-report.pdf)**
+* 📄 **[Executive Summary: Metabolic Digital Twin Architecture (PDF)](https://github.com/Gitechnolo/biotechproject/blob/main/docs/Metabolic-Digital-Twin-Executive-Summary.pdf)**
 
 ### Dashboard Features
 * ✅ **Real-time Performance Monitoring**: Metrics (0–100) updated every 24h via GitHub Actions.
