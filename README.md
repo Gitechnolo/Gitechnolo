@@ -497,8 +497,8 @@ You're welcome!
 BiotechProject is an **open project for everyone**, inspired by the collaborative spirit of Wikipedia.
 
 🔹 To get started:
-- Read the [**Contributing Guidelines**](CONTRIBUTING.md)
-- Follow the [**Code of Conduct**](CODE_OF_CONDUCT.md)
+- Read the [**Contributing Guidelines**](https://github.com/Gitechnolo/biotechproject/blob/main/CONTRIBUTING.md)
+- Follow the [**Code of Conduct**](https://github.com/Gitechnolo/biotechproject/blob/main/CODE_OF_CONDUCT.md)
 
 You can help with:
 - Scientific content
@@ -524,8 +524,8 @@ Every contribution, big or small, helps make science more accessible.
 
 This project implements a **Dual-Licensing Strategy** to ensure the integrity of both architectural logic and scientific educational content:
 
-* **Source Code**: [MIT License](LICENSE-MIT.md) - © 2025-2026 Fabrizio ([@Gitechnolo](https://github.com/Gitechnolo))
-* **Scientific Content (Text, Graphics, Educational Material)**: [Creative Commons Attribution 4.0 International](LICENSE-CC-BY-4.0.md)
+* **Source Code**: [MIT License](https://github.com/Gitechnolo/biotechproject/blob/main/LICENSE-MIT.md) - © 2025-2026 Fabrizio ([@Gitechnolo](https://github.com/Gitechnolo))
+* **Scientific Content (Text, Graphics, Educational Material)**: [Creative Commons Attribution 4.0 International](https://github.com/Gitechnolo/biotechproject/blob/main/LICENSE-CC-BY-4.0.md)
 
 > “Anyone can contribute. Just respect the origin, and keep building with care.”   
 
