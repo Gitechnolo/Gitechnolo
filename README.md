@@ -8,7 +8,7 @@
 [![Accessibility](https://img.shields.io/badge/ACCESSIBILITY-WCAG_2.2_AAA-00C853?style=for-the-badge&logo=github&labelColor=333333)](https://gitechnolo.github.io/biotechproject/accessibility-en.html)
 
 🌐 **Read in other languages:**  
-[Italiano 🇮🇹](README.it.md) | 
+[Italiano 🇮🇹](https://github.com/Gitechnolo/biotechproject/blob/main/README.it.md) | 
 [English 🇬🇧](README.md) | 
 [Español 🇪🇸](README.es.md) | 
 [Français 🇫🇷](README.fr.md) | 
