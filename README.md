@@ -9,12 +9,12 @@
 
 🌐 **Read in other languages:**  
 [Italiano 🇮🇹](https://github.com/Gitechnolo/biotechproject/blob/main/README.it.md) | 
-[English 🇬🇧](README.md) | 
-[Español 🇪🇸](README.es.md) | 
-[Français 🇫🇷](README.fr.md) | 
-[Deutsch 🇩🇪](README.de.md) | 
-[Dutch 🇳🇱](README.nl.md) |
-[Português (BR) 🇧🇷](README.pt-br.md)
+[English 🇬🇧](https://github.com/Gitechnolo/biotechproject/blob/main/README.md) | 
+[Español 🇪🇸](https://github.com/Gitechnolo/biotechproject/blob/main/README.es.md) | 
+[Français 🇫🇷](https://github.com/Gitechnolo/biotechproject/blob/main/README.fr.md) | 
+[Deutsch 🇩🇪](https://github.com/Gitechnolo/biotechproject/blob/main/README.de.md) | 
+[Dutch 🇳🇱](https://github.com/Gitechnolo/biotechproject/blob/main/README.nl.md) |
+[Português (BR) 🇧🇷](https://github.com/Gitechnolo/biotechproject/blob/main/README.pt-br.md)
 
 > 💡 **Executive Briefing (March 28, 2026):**
 >
