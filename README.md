@@ -428,7 +428,7 @@ This project serves as a robust foundation for:
 > ### 🏛️ Institutional & Academic Hub (Update: May 8, 2026)
 > **v6.4.0 Strategic Partnership Report**. This document defines our roadmap for "Resilience by Design" and invites academic stakeholders to explore our engagement tracks.
 > 
-> 👉 **View the Updated Strategic Partnership Document:** [BiotechProject x Academic Partners (PDF)](https://github.com/Gitechnolo/biotechproject/blob/main/docs/Protocollo_Collaborazione_Istituzionale_2026_IT.pdf)
+> 👉 **View the Updated Strategic Partnership Document:** [BiotechProject x Academic Partners (PDF)](https://github.com/Gitechnolo/biotechproject/blob/main/docs/Institutional_Collaboration_Charter_2026.pdf)
 > 
 > *Includes detailed engagement tracks: **(A) Graduation Thesis**, **(B) Research Lab Case-Study**, and **(C) Strategic EU Grant Partnerships**.*
 
