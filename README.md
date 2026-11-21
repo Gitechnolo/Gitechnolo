@@ -300,7 +300,7 @@ The ecosystem implements an **advanced technological maturity tracking system**.
 <summary><b>📸 Scan for mobile access (AAA Standard)</b></summary>
 <div align="center">
   <br>
-  <img src="Biotech-file/images/qrcode-tech-maturity.png" alt="QR Code per accedere alla Dashboard di Maturità Tecnologica di BiotechProject" width="220" />
+  <img src="https://github.com/Gitechnolo/biotechproject/blob/main/Biotech-file/images/qrcode-tech-maturity.png" alt="QR Code per accedere alla Dashboard di Maturità Tecnologica di BiotechProject" width="220" />
   <p><i>Point your camera to verify performance and WCAG 2.2 AAA accessibility in real-time on your smartphone.</i></p>
 </div>
 </details>
